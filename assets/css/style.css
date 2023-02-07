@@ -1,0 +1,13 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: o;
+    overflow: hidden;
+}
+
+#canvas {
+    border: 4px solid black;
+
+}
