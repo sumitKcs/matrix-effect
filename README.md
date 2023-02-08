@@ -27,16 +27,9 @@ Font color changes from green to a graident color on mouse doouble click or toub
     <img src="https://i.postimg.cc/tRt3gq0s/matrix-gradient.png" alt="drawing" width="100%"/> 
   </div>
 - on mobile
-  <div style="display: flex; flex-direction:row; gap: 15px">
-    <div style="display:flex; flex-direction:column; justify-content:cemter; align-items:center" >
-    <span style="margin-bottom:5px">green</span>
-    <img src="https://i.postimg.cc/Z5Dz3zNm/matrix-mobile.png" alt="drawing" width="250"/> 
-    </div>
-   <div style="display:flex; flex-direction:column; justify-content:cemter; align-items:center" >
-    <span style="margin-bottom:5px">gradient</span>
+  <div>
+    <img src="https://i.postimg.cc/Z5Dz3zNm/matrix-mobile.png" alt="drawing" width="250"/> &nbsp; &nbsp;
      <img src="https://i.postimg.cc/yNjJHd3K/matrix-mobile-gradient.png" alt="drawing" width="250"/> 
-    </div>
-    
   </div>
 
 ## Deployed App Link
