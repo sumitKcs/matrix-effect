@@ -9,7 +9,7 @@ This code creates a matrix rain effect with a black background, and a green colo
 
 <br>
 
-<a href="https://github.com/sumitKcs/matrix-effect">![Spectrum Mouse Trail](https://github.com/sumitKcs/matrix-effect.git/assets/img/preview-green.png)</a>
+<a href="https://sumitkcs.github.io/matrix-effect">![Spectrum Mouse Trail](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.png)</a>
 
 The matrix rain effect uses the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a> and the HTML `<canvas>` element to draw graphics and animations.
 
@@ -59,11 +59,11 @@ open index.html
 
 <a href="https://github.com/sumitKcs/matrix-effect">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-<a href="https://github.com/sumitKcs/matrix-effect">![Live Site](https://github.com/sumitKcs/matrix-effect.git/assets/img/preview-green.webp)</a>
+<a href="https://github.com/sumitKcs/matrix-effect">![Live Site](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.webp)</a>
 
-• **[Matrix Rain Effect](https://github.com/sumitKcs/matrix-effect.git/)** is best viewed on a desktop or laptop computer browser.
+• **[Matrix Rain Effect](https://sumitkcs.github.io/matrix-effect)** is best viewed on a desktop or laptop computer browser.
 
-• **[Matrix Rain Effect](https://github.com/sumitKcs/matrix-effect.git/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+• **[Matrix Rain Effect](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.png)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 
 <br>
 
