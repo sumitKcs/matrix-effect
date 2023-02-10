@@ -1,17 +1,17 @@
-const CACHE_NAME = "Matrix-cache-v1";
+const CACHE_NAME = "matrix-cache-v1";
 const urlsToCache = [
-  "/canvas-animation-effects/",
-  "/canvas-animation-effects/index.html",
-  "/canvas-animation-effects/aseets/js/app.js",
-  "/canvas-animation-effects/aseets/js/effect.js",
-  "/canvas-animation-effects/aseets/js/symbol.js",
-  "/canvas-animation-effects/aseets/css/sytyle.css",
+  "/",
+  "/index.html",
+  "/assets/js/app.js",
+  "/assets/js/effect.js",
+  "/assets/js/symbol.js",
+  "/assets/css/style.css",
 ];
 
-self.addEventListener("install", (e) => {
-  e.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      console.log("cache opened");
+self.addEventListener("install", function (event) {
+  event.waitUntil(
+    caches.open(CACHE_NAME).then(function (cache) {
+      console.log("Opened cache");
       return cache.addAll(urlsToCache);
     })
   );

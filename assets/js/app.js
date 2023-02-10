@@ -105,3 +105,4 @@ function swRegistration() {
       .catch((error) => console.log(error));
   }
 }
+swRegistration();
