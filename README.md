@@ -9,28 +9,13 @@ This code creates a matrix rain effect with a black background, and a green colo
 
 <br>
 
-<a href="https://github.com/sumitKcs/canvas-animation-effects">![Spectrum Mouse Trail](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.png)</a>
+<a href="https://github.com/sumitKcs/matrix-effect">![Spectrum Mouse Trail](https://github.com/sumitKcs/matrix-effect.git/assets/img/preview-green.png)</a>
 
 The matrix rain effect uses the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a> and the HTML `<canvas>` element to draw graphics and animations.
 
 - I discovered a YouTube Channel called <a href="https://www.youtube.com/c/Frankslaboratory">Frank's Laboratory</a> with excellent creative coding tutorials.
 
-<<<<<<< HEAD
 - I made two animation effects from Frank's Laboratory (see also <a href="https://github.com/sumitKcs/canvas-animation-effect/#header">Spectrum Mouse Trail Effect</a>).
-=======
-<div>
-<img src="https://i.postimg.cc/1zLMhJkw/matrix-green.png" alt="drawing" width="100%"/>
-</div>
-( gradient ) <br>
-  <div>
-    <img src="https://i.postimg.cc/tRt3gq0s/matrix-gradient.png" alt="drawing" width="100%"/> 
-  </div>
-- on mobile
-  <div>
-    <img src="https://i.postimg.cc/Z5Dz3zNm/matrix-mobile.png" alt="drawing" width="250"/> &nbsp; &nbsp;
-     <img src="https://i.postimg.cc/yNjJHd3K/matrix-mobile-gradient.png" alt="drawing" width="250"/> 
-  </div>
->>>>>>> d458affe0578166d1194893e85615026ae50af67
 
 #
 
@@ -72,13 +57,13 @@ open index.html
 
 <p id="live-site"><p>
 
-<a href="https://github.com/sumitKcs/canvas-animation-effects">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+<a href="https://github.com/sumitKcs/matrix-effect">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-<a href="https://github.com/sumitKcs/canvas-animation-effects">![Live Site](https://sumitkcs.github.io/canvas-animation-effects/assets/img/preview.webp)</a>
+<a href="https://github.com/sumitKcs/matrix-effect">![Live Site](https://github.com/sumitKcs/matrix-effect.git/assets/img/preview-green.webp)</a>
 
-• **[Matrix Rain Effect](https://sumitkcs.github.io/canvas-animation-effects/)** is best viewed on a desktop or laptop computer browser.
+• **[Matrix Rain Effect](https://github.com/sumitKcs/matrix-effect.git/)** is best viewed on a desktop or laptop computer browser.
 
-• **[Matrix Rain Effect](https://sumitkcs.github.io/canvas-animation-effects/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+• **[Matrix Rain Effect](https://github.com/sumitKcs/matrix-effect.git/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 
 <br>
 
