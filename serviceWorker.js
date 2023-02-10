@@ -1,11 +1,11 @@
 const CACHE_NAME = "matrix-cache-v1";
 const urlsToCache = [
   "/matrix-effect/",
-  "/matrix-effect//index.html",
-  "/matrix-effect//assets/js/app.js",
-  "/matrix-effect//assets/js/effect.js",
-  "/matrix-effect//assets/js/symbol.js",
-  "/matrix-effect//assets/css/style.css",
+  "/matrix-effect/index.html",
+  "/matrix-effect/assets/js/app.js",
+  "/matrix-effect/assets/js/effect.js",
+  "/matrix-effect/assets/js/symbol.js",
+  "/matrix-effect/assets/css/style.css",
 ];
 
 self.addEventListener("install", function (event) {
