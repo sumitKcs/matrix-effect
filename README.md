@@ -57,13 +57,13 @@ open index.html
 
 <p id="live-site"><p>
 
-<a href="https://github.com/sumitKcs/matrix-effect">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+<a href="https://sumitkcs.github.io/matrix-effect/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-<a href="https://github.com/sumitKcs/matrix-effect">![Live Site](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.webp)</a>
+<a href="https://sumitkcs.github.io/matrix-effect/">![Live Site](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.webp)</a>
 
 • **[Matrix Rain Effect](https://sumitkcs.github.io/matrix-effect)** is best viewed on a desktop or laptop computer browser.
 
-• **[Matrix Rain Effect](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.png)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+• **[Matrix Rain Effect](https://sumitkcs.github.io/matrix-effect/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 
 <br>
 
