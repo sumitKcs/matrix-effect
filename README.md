@@ -1,24 +1,23 @@
-## Matrix Animation Using HTML5 Canvas
+<p id="header"><p>
+<br>
 
-This code creates a canvas with a black background, and a green or gradient font color. The animation displays random letters that drop down the canvas like the "matrix" effect.
+<p id="project-title"><p>
 
-## How to run the app
+# Matrix Rain Effect
 
-1. Fork or downloaad this repository.
-2. Copy the absolute path of the index.html file
-3. Open a browser and paste the copied path to the URL box and hit enter.
-4. Alternatively, open the project folder inside vscode and install extension 'Live Server'.
-5. Click the button saying 'Go Live' at the bottom-right of vscode window.
-6. App will be served at http://127.0.0.1:5500/
+This code creates a matrix rain effect with a black background, and a green color. The animation displays random letters that drop down the canvas like the "matrix" effect. The color can be toggled to a gradient color by double mouse click or double finger tap on touch devices.
 
-## How to change color
+<br>
 
-Font color changes from green to a graident color on mouse doouble click or touble tap on touch devices.
+<a href="https://github.com/sumitKcs/canvas-animation-effects">![Spectrum Mouse Trail](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.png)</a>
 
-## Preview of the alarm clock
+The matrix rain effect uses the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a> and the HTML `<canvas>` element to draw graphics and animations.
 
-- on desktop ( green )
+- I discovered a YouTube Channel called <a href="https://www.youtube.com/c/Frankslaboratory">Frank's Laboratory</a> with excellent creative coding tutorials.
 
+<<<<<<< HEAD
+- I made two animation effects from Frank's Laboratory (see also <a href="https://github.com/sumitKcs/canvas-animation-effect/#header">Spectrum Mouse Trail Effect</a>).
+=======
 <div>
 <img src="https://i.postimg.cc/1zLMhJkw/matrix-green.png" alt="drawing" width="100%"/>
 </div>
@@ -31,8 +30,82 @@ Font color changes from green to a graident color on mouse doouble click or toub
     <img src="https://i.postimg.cc/Z5Dz3zNm/matrix-mobile.png" alt="drawing" width="250"/> &nbsp; &nbsp;
      <img src="https://i.postimg.cc/yNjJHd3K/matrix-mobile-gradient.png" alt="drawing" width="250"/> 
   </div>
+>>>>>>> d458affe0578166d1194893e85615026ae50af67
 
-## Deployed App Link
+#
 
-- <a href="https://sumitkcs.github.io/matrix-effect/" target="_top"> Github Pages </a>
-- <a href="https://matrix-sumit.netlify.app/" target="_top">Netlify</a>
+<br>
+<p id="table-of-contents"><p>
+
+<a href=#table-of-contents>![Table of Contents](https://res.cloudinary.com/dn1e07eul/image/upload/v1659241355/Readme%20Headers/inter-toc_euxbbw.png)</a>
+
+- [Installation](#installation)
+- [Live Site](#live-site)
+- [Resources](#resources)
+- [Let's Connect!](#lets-connect) <br>
+
+#
+
+<br>
+
+<p id="installation"><p>
+
+<a href=#installation>![Installation](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389842/Readme%20Headers/inter-installation_j9ixlq.png)</a>
+
+#### 1. Git clone and cd into the repo folder:
+
+```console
+https://github.com/sumitKcs/matrix-effect.git && cd matrix-effect
+```
+
+#### 2. Run the command:
+
+```console
+open index.html
+```
+
+#### 3. On your device, double click the mouse cursor to toggle between colors or tap your finger twice around the screen on touch devices to see the color change in matrix rain effect.
+
+<br>
+
+#
+
+<p id="live-site"><p>
+
+<a href="https://github.com/sumitKcs/canvas-animation-effects">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+
+<a href="https://github.com/sumitKcs/canvas-animation-effects">![Live Site](https://sumitkcs.github.io/canvas-animation-effects/assets/img/preview.webp)</a>
+
+• **[Matrix Rain Effect](https://sumitkcs.github.io/canvas-animation-effects/)** is best viewed on a desktop or laptop computer browser.
+
+• **[Matrix Rain Effect](https://sumitkcs.github.io/canvas-animation-effects/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
+
+#
+
+<p id="resources"><p>
+
+<a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
+
+- #### [Matrix Rain Experiments in JavaScript ](https://www.youtube.com/watch?v=f5ZswIE_SgY&t=793s) by [Frank's Laboratory](https://www.youtube.com/c/Frankslaboratory)
+
+- #### [HTML5 Canvas Crash Course for Beginners](https://www.youtube.com/watch?v=Yvz_axxWG4Y) by [Frank's Laboratory](https://www.youtube.com/c/Frankslaboratory)
+
+- #### [Creating Particles in HTML5 Canvas](https://modernweb.com/creating-particles-in-html5-canvas/)
+
+- #### [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+
+<br>
+
+#
+
+<p id="lets-connect"><p>
+
+<a href=#lets-connect>![Let's Connect!](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314257/Readme%20Headers/inter-lets-connect_bv3kcd.png)</a>
+
+<p><a href="https://twitter.com/risesumit"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"></a> <a href="https://www.linkedin.com/in/sumitssr/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"></a> <a href="mailto:itssumit258@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"></a> <a href="https://github.com/sumitKcs"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Github badge"></a></p>
+
+#
+
+<a href=#header>![Back to Top](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314281/Readme%20Headers/inter-congrats_m4p3ck.png)</a>
