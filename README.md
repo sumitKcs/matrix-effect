@@ -3,19 +3,19 @@
 
 <p id="project-title"><p>
 
-# Matrix Rain Effect
+<a href=#table-of-contents>![Matrix Rain Animation](./assets/img/matrix-rain-animation.png)</a>
 
-This code creates a matrix rain effect with a black background, and a green color. The animation displays random letters that drop down the canvas like the "matrix" effect. The color can be toggled to a gradient color by double mouse click or double finger tap on touch devices.
+This code creates a matrix rain animation with a black background, and a green color. The animation displays random letters that drop down the canvas like the "matrix" effect. The color can be toggled to a gradient color by double mouse click or double finger tap on touch devices.
 
 <br>
 
-<a href="https://sumitkcs.github.io/matrix-effect">![Spectrum Mouse Trail](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.png)</a>
+<a href="https://sumitkcs.github.io/matrix-effect">![Matrix Rain Animation](https://sumitkcs.github.io/matrix-effect/assets/img/preview-green.png)</a>
 
-The matrix rain effect uses the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a> and the HTML `<canvas>` element to draw graphics and animations.
+The matrix rain animation uses the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a> and the HTML `<canvas>` element to draw graphics and animations.
 
 - I discovered a YouTube Channel called <a href="https://www.youtube.com/c/Frankslaboratory">Frank's Laboratory</a> with excellent creative coding tutorials.
 
-- I made two animation effects from Frank's Laboratory (see also <a href="https://github.com/sumitKcs/canvas-animation-effect/#header">Spectrum Mouse Trail Effect</a>).
+- I made two animation effects from Frank's Laboratory (see also <a href="https://github.com/sumitKcs/canvas-animation-effect/#header">Matrix Rain Animation Effect</a>).
 
 #
 
