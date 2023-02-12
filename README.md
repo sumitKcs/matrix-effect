@@ -3,7 +3,7 @@
 
 <p id="project-title"><p>
 
-<a href=#table-of-contents>![Matrix Rain Animation](./assets/img/matrix-rain-animation.png)</a>
+<a href=#table-of-contents>![Matrix Rain Animation](https://sumitkcs.github.io/matrix-effect/assets/img/matrix-rain-animation.png)</a>
 
 This code creates a matrix rain animation with a black background, and a green color. The animation displays random letters that drop down the canvas like the "matrix" effect. The color can be toggled to a gradient color by double mouse click or double finger tap on touch devices.
 
