@@ -1,4 +1,5 @@
 import Effect from "./effect.js";
+import consoleText from "./console.js";
 
 const canvas = document.querySelector("canvas");
 const ctx = canvas.getContext("2d");
@@ -106,3 +107,4 @@ function swRegistration() {
   }
 }
 swRegistration();
+consoleText();
